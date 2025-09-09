@@ -38,3 +38,4 @@ while (true) { // loop caso o usuário decida sair
 
   console.log(`Resultado: ${resultado}`);
 }
+  
