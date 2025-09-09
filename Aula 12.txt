@@ -1,12 +1,3 @@
-Adote a persona de um especialista em JavaScript e Crie uma classe de alunos com atributos:
-1. Nome;
-2. Matrícula;
-Crie uma classe Turma com:
-1. Atributo: Lista de alunos;
-2. Método: adicionarAluno() que recebe um objeto Aluno e adiciona à lista;
-3. Método: listarAlunos() que mostra todos os alunos da turma;
-
-
 // Classe Aluno
 class Aluno {
   constructor(nome, matricula) {
